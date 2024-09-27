@@ -1,0 +1,11 @@
+{
+  "name": "bun-add-express-mongoose-jsonwebtoken-passport-passport-google-oauth20-passport-facebook-helmet-rate-limit-redis-redis-dotenv-web3-ethers",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
